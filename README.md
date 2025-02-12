@@ -1,4 +1,4 @@
-# QT-Capital-Quantitative-Team-Team
+# QT-Capital-Quantitative-Team
 Queen's Tower Capital's Quantitative Trading Division
 
 Welcome to the Quantitative Trading Division of QT Capital. 
